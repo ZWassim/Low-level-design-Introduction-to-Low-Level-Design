@@ -1,0 +1,13 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modular Library Management System",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["library", "design-patterns", "es-modules"],
+  "author": "",
+  "license": "MIT"
+}
